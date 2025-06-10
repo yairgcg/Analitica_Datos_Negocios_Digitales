@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Stage_Northwind", "ETL_Northwind\Stage_Northwind.dtproj", "{48116DBE-AAEC-4FAA-D3BA-A75178C89BA9}"
+EndProject
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "DataMart_Nowrthwind", "DataMart_Nowrthwind\DataMart_Nowrthwind.dtproj", "{718D4CC9-17A3-C375-EEC5-4E1BC56DE514}"
+EndProject
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Datamart_Northwind_2", "Datamart_Northwind_2\Datamart_Northwind_2.dtproj", "{F2F4D9C9-4466-2E2F-AB19-C0C1AC115FB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48116DBE-AAEC-4FAA-D3BA-A75178C89BA9}.Development|Default.ActiveCfg = Development
+		{48116DBE-AAEC-4FAA-D3BA-A75178C89BA9}.Development|Default.Build.0 = Development
+		{718D4CC9-17A3-C375-EEC5-4E1BC56DE514}.Development|Default.ActiveCfg = Development
+		{718D4CC9-17A3-C375-EEC5-4E1BC56DE514}.Development|Default.Build.0 = Development
+		{F2F4D9C9-4466-2E2F-AB19-C0C1AC115FB7}.Development|Default.ActiveCfg = Development
+		{F2F4D9C9-4466-2E2F-AB19-C0C1AC115FB7}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CB720D5-290F-417F-810A-B856750DBA9B}
+	EndGlobalSection
+EndGlobal

@@ -1,3 +1,6 @@
+# Proceso de creación de ETL
+```sql	
+
 -- crear la base de datos Stage_Norwith
 create database stage_northwind;
 
@@ -125,3 +128,5 @@ create table FactVentas (
 	references dimTiempo(tiempoSKey)
 );
 
+
+```

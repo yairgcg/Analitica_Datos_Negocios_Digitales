@@ -1,0 +1,11 @@
+ProductID,ProductName,CategoryName,UnitPrice,UnitsInStock,Importe
+1,Chai,Beverages,18,39,702
+2,Chang,Beverages,19,17,323
+3,Aniseed Syrup,Condiments,10,13,130
+4,Chef Anton's Cajun Seasoning,Condiments,22,53,1166
+5,Chef Anton's Gumbo Mix,Condiments,21.35,0,0
+6,Grandma's Boysenberry Spread,Condiments,25,120,3000
+7,Uncle Bob's Organic Dried Pears,Produce,30,15,450
+8,Northwoods Cranberry Sauce,Condiments,40,6,240
+9,Mishi Kobe Niku,Meat/Poultry,97,29,2813
+10,Ikura,Seafood,31,31,961
